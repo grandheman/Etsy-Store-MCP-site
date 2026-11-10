@@ -1,4 +1,4 @@
-# Personal Etsy Connector — public information site
+# Personal Shop Connector — public information site
 
 This repository contains only a static project information page for a private
 connector being developed for the owner's Etsy shops. It does not contain
